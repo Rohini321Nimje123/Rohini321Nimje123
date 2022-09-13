@@ -1,20 +1,8 @@
-### Hi there 👋
 
-<!--
-**Rohini321Nimje123/Rohini321Nimje123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...[![MasterHead](https://us.123rf.com/450wm/rorygezfresh/rorygezfresh2005/rorygezfresh200500158/146695903-female-hands-typing-on-laptop-student-supplies-on-a-blue-pastel-background-banner-with-copy-space-.jpg?ver=6)]
+![MasterHead](https://forum-cdn.zaros.io/monthly_2021_02/Re7244a8c2d4385ccbe6e7cf8436433c3.gif.1850e856aa59c039cbf00fcf1df13706.gif)
 <h1 align="center">Hi 👋, I'm Rohini Nimje</h1>
 <h3 align="center">Ambitious and detailed-oriented aspiring Java Backend Developer. Proficient in Java and capable of writing production ready and user centric code using relevant tech skills. Passionate about coding and strongly interested in working on challenging projects in a growth oriented organization.</h3>
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/15215756-Coding-Animation-Concept">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohini321nimje123&label=Profile%20views&color=0e75b6&style=flat" alt="rohini321nimje123" /> </p>
 
 - 🌱 I’m currently learning **Java Backend Developer**
@@ -44,4 +32,4 @@ Here are some ideas to get you started:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohini321nimje123&" alt="rohini321nimje123" /></p>
 
 - ⚡ Fun fact: ...
--->
+
