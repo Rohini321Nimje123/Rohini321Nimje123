@@ -6,15 +6,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohini321nimje123&label=Profile%20views&color=0e75b6&style=flat" alt="rohini321nimje123" /> </p>
 
 - 🌱 I’m currently learning **Java Backend Developer**
-
-- 👨‍💻 All of my projects are available at [https://rohini-nimje.netlify.app/](https://rohini-nimje.netlify.app/)
-
 - 💬 Ask me about **Java, MySQL, Spring Boot, JavaScript, HTML, CSS**
-
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://rohini321nimje123.github.io)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohini-nimje)
 - 📫 How to reach me **rohininimje594@gmail.com**
-
-- 📄 Know about my experiences [https://rohini-nimje.netlify.app/Resume/Rohini_Nimje%20(1).pdf](https://rohini-nimje.netlify.app/Resume/Rohini_Nimje%20(1).pdf)
-
+- 📄 Know about my experiences 
+My : [Resume](https://drive.google.com/file/d/1iXzz4cRiEhpIdSunvut6PTSRxNIdPmBD/view?usp=share_link)
 - ⚡ Fun fact **I love to connect new people.**
 
 <h3 align="left">Connect with me:</h3>
